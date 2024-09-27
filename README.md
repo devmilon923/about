@@ -8,13 +8,8 @@
 </div>
 
 
-- 🔭 I’m currently working on 
-
 - 🌱 I’m currently learning with ProgrammingHero 
 
-- 👯 I’m looking to collaborate on  
-
-- 💬 Talk to me about  
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/devmilon923?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
