@@ -1,77 +1,59 @@
-# Jane Doe's Resume
+<div align="center">
+<img width="100%" height = "100%" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
+</div>
 
-![Avatar](https://www.w3schools.com/w3images/avatar_hat.jpg)
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<p align='center'>
 
-## Contact Information
-- **Designer**
-- **Location:** London, UK
-- **Email:** ex@mail.com
-- **Phone:** 1224435534
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/devmilon923.https://github.com/devmilon923)
 
----
+</p>
+<div size='20px'> Hi! My name is MD Milon. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
-## Skills
-- **Adobe Photoshop**: ![90%](https://progress-bar.dev/90)
-- **Photography**: ![80%](https://progress-bar.dev/80)
-- **Illustrator**: ![75%](https://progress-bar.dev/75)
-- **Media**: ![50%](https://progress-bar.dev/50)
+<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
----
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
-## Languages
-- **English**: ![100%](https://progress-bar.dev/100)
-- **Spanish**: ![55%](https://progress-bar.dev/55)
-- **German**: ![25%](https://progress-bar.dev/25)
 
----
+- 🔭 I’m currently working on 
 
-## Work Experience
+- 🌱 I’m currently learning with ProgrammingHero 
 
-### Front End Developer / w3schools.com  
-**Jan 2015 - Present**
+- 👯 I’m looking to collaborate on  
 
-Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.
+- 💬 Talk to me about  
 
----
+<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<a href= https://github.com/https://github.com/devmilon923?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/https://github.com/devmilon923?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/https://github.com/devmilon923?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/https://github.com/devmilon923?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/https://github.com/devmilon923?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
+<a href= https://github.com/https://github.com/devmilon923?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 
-### Web Developer / something.com  
-**Mar 2012 - Dec 2014**
 
-Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.
+<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<a href = 'https://www.twitter.com/https://x.com/dev_milon923'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://milonize.github.io/portfolio/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/https://github.com/devmilon923'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
----
 
-### Graphic Designer / designsomething.com  
-**Jun 2010 - Mar 2012**
+<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
+</a>
+<br>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
----
+<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-## Education
+![Metrics](https://metrics.lecoq.io/https://github.com/devmilon923?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
-### W3Schools.com  
-**Forever**  
-Web Development! All I need to know in one place.
+<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
----
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-### London Business School  
-**2013 - 2015**  
-Master Degree
 
----
-
-### School of Coding  
-**2010 - 2013**  
-Bachelor Degree
-
----
-
-## Social Media
-Find me on social media:  
-[Facebook](https://facebook.com) | [Instagram](https://instagram.com) | [Snapchat](https://snapchat.com) | [Pinterest](https://pinterest.com) | [Twitter](https://twitter.com) | [LinkedIn](https://linkedin.com)
-
----
-
-*This website was made with [W3Schools Spaces](https://www.w3schools.com/spaces).*
+<br>
+<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
