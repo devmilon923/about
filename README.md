@@ -6,9 +6,8 @@
 
 <div size='20px'> Hi! My name is MD Milon. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
-
-
-- 🌱 I’m currently learning with ProgrammingHero 
+<br>
+🌱 I’m currently learning with ProgrammingHero 
 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
